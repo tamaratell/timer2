@@ -13,3 +13,4 @@ const setTimer = (beeps) => {
 };
 
 setTimer(beeps);
+
